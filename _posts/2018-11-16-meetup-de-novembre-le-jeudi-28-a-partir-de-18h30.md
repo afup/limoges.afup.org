@@ -27,6 +27,5 @@ categories:
 
 🕗 21h00 &#8211; Fin du meetup.
 
-N&rsquo;oubliez pas de vous inscrire
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-limoges-php/events/256414882" %}
 
-https://www.meetup.com/fr-FR/afup-limoges-php/events/256414882/
