@@ -4,7 +4,7 @@ title: Meetup de novembre le jeudi 28 à partir de 18h30
 date: 2018-11-16T16:05:33+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=60
+guid: /archives/?p=60
 permalink: /2018/11/16/meetup-de-novembre-le-jeudi-28-a-partir-de-18h30/
 categories:
   - Non classé

@@ -1,4 +1,5 @@
 url: "http://limoges.afup.org"
+baseurl: /archives
 
 title: "AFUP Limoges"
 description: >-
@@ -8,7 +9,6 @@ meetup_url: "https://www.meetup.com/fr-FR/afup-limoges-php"
 
 permalink: /posts/:title
 
-ga_ua: "G-RECL2R0BHD"
 home_featured_articles_count: 1
 
 # Build settings

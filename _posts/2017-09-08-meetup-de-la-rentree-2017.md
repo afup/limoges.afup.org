@@ -4,7 +4,7 @@ title: Meetup de la rentrée 2017
 date: 2017-09-08T21:27:40+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=33
+guid: /archives/?p=33
 permalink: /2017/09/08/meetup-de-la-rentree-2017/
 image: /files/2017/09/BackToWork-1000x288.jpg
 categories:

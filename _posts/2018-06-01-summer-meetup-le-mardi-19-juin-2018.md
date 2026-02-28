@@ -4,7 +4,7 @@ title: Summer meetup le mardi 19 juin 2018
 date: 2018-06-01T09:24:55+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=40
+guid: /archives/?p=40
 permalink: /2018/06/01/summer-meetup-le-mardi-19-juin-2018/
 categories:
   - Non classé

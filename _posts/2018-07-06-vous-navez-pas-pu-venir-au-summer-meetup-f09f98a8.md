@@ -4,7 +4,7 @@ title: 'Vous n&rsquo;avez pas pu venir au summer meetup ? 😨'
 date: 2018-07-06T09:37:43+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=45
+guid: /archives/?p=45
 permalink: '/2018/07/06/vous-navez-pas-pu-venir-au-summer-meetup-%f0%9f%98%a8/'
 categories:
   - Non classé

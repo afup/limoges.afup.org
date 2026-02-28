@@ -4,7 +4,7 @@ title: 'Save the date ! 6 Juillet 2017 / 19h à l&rsquo;OBrien'
 date: 2017-06-30T17:58:27+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=19
+guid: /archives/?p=19
 permalink: /2017/06/30/meetup-6-juillet-2017-19h-a-lobrien/
 categories:
   - Non classé

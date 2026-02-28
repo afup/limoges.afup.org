@@ -4,7 +4,7 @@ title: Super apéro PHP + atelier TDD le jeudi 8 mars 2018
 date: 2018-03-01T09:22:18+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=37
+guid: /archives/?p=37
 permalink: /2018/03/01/super-apero-php-atelier-tdd-le-jeudi-8-mars-2018/
 categories:
   - Non classé

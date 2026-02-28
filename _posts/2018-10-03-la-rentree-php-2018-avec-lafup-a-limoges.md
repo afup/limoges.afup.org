@@ -4,7 +4,7 @@ title: 'La rentrée php 2018 avec l&rsquo;afup à Limoges le 18 octobre'
 date: 2018-10-03T17:52:13+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=54
+guid: /archives/?p=54
 permalink: /2018/10/03/la-rentree-php-2018-avec-lafup-a-limoges/
 categories:
   - Non classé

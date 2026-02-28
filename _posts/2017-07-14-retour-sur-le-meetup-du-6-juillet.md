@@ -4,7 +4,7 @@ title: Retour sur le meetup du 6 juillet
 date: 2017-07-14T23:06:17+00:00
 author: antenne-limoges
 layout: post
-guid: http://limoges.afup.org/?p=22
+guid: /archives/?p=22
 permalink: /2017/07/14/retour-sur-le-meetup-du-6-juillet/
 categories:
   - Non classé
